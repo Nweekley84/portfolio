@@ -11,7 +11,7 @@ A portfolio of samples of my projects for potential employers.
 * Css
 
 ## Desciption
-A barebones portfolio page that will eventually be populated with all of my class projects. Additionally the CSS and flexbox code will ultimatly be updated as well as the overall design as my skills continue to develope throughout the course. It looks rough right now I know, but it will improve with time.
+A barebones portfolio page that will eventually be populated with all of my class projects. Additionally the CSS and flexbox code will ultimatly be updated as well as the overall design as my skills continue to develope throughout the course. It looks rough right now I know, but it will improve with time. Screenshot of site is located under ./assets/images/portfolioSC_files/IMG_1818.JPEG
 
 ## Setup/Installation Requirements
 N/A
