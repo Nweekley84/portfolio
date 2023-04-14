@@ -17,7 +17,7 @@ A barebones portfolio page that will eventually be populated with all of my clas
 N/A
 
 ## Known Bugs
-Still trying to figure out flexbox code mainly flex-wrap, so upon resizing from different screen sizes, all rows appear on their correct locations. Also still need to figure out how to add a "subtitle" within the header with it's own custom bakground image as per the example. Work section is vacant as this is the only project I have to show for so far.
+Still trying to figure out flexbox code mainly flex-wrap, so upon resizing from different screen sizes, all rows appear on their correct locations. Also still need to figure out how to add a "subtitle" within the header with it's own custom bakground image as per the example. Work section is vacant as this is the only project I have to show for so far. Also need to add RIGHT sided border (only) to each "assets" bar IE: About Me, Work, Contact. Title background "Nathan Weekley" in header needs the background color extended all the way left with 0 padding.
 
 ## License
 MIT (wasn't sure what to use)
